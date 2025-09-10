@@ -1,2 +1,1 @@
-# web-dev-project
-some description
+# Web App Development project
